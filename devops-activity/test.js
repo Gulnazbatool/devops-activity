@@ -7,3 +7,6 @@ if (true) {
   console.error('Tests failed');
   process.exit(1);
 }
+// change for CI
+}
+// trigger CI again
